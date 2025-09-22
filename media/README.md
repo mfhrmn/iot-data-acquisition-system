@@ -7,6 +7,9 @@ This folder contains all visual materials demonstrating the **IoT Data Acquisiti
 ## Contents
 
 ### Scheme
+- High-level **block diagrams** showing system architecture: ESP32, sensors, Bluetooth communication, and cloud Excel logging  
+- **Wiring diagrams** detailing sensor connections, power supply, and mobile interface  
+- File : `esp32_block_diagram.jpg`, `wiring_scheme.png`, `mobile_app_block_diagram.jpg`
 
 ### Prototype Photos
 - Images showing ESP32, sensors, and wiring on the trail bike  
@@ -14,7 +17,7 @@ This folder contains all visual materials demonstrating the **IoT Data Acquisiti
 
 ### App Screenshots
 - MIT App Inventor mobile app interface 
-- File: `app_dashboard.png`, `block_program.png`
+- File: `mobile_app_dashboard.jpg`, `block_program.png`
 
 ---
 
