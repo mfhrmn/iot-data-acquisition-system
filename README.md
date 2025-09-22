@@ -18,7 +18,7 @@ The system communicates via **Bluetooth** to the app and uses the **internet** t
 - ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 - ![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF4F00?style=for-the-badge)  
-- Internet/Cloud integration (Excel Spreadsheet)  
+- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 ---
 
