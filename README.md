@@ -41,14 +41,16 @@ The system communicates via **Bluetooth** to the app and uses the **internet** t
 
 ---
 
-## 👤 Author
-**Fathurrahman Sahib**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mfhrmn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mfhrmn)  
-[![GitHub](https://img.shields.io/badge/GitHub-mfhrmn-black?style=flat&logo=github)](https://github.com/mfhrmn)  
-📧 mfhrmn@gmail.com
+## 👤 Authors
+
+### Fathurrahman Sahib  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mfhrmn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfhrmn)  
+[![GitHub](https://img.shields.io/badge/GitHub-mfhrmn-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfhrmn)  
+[![Email](https://img.shields.io/badge/Email-mfhrmn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfhrmn@gmail.com)  
+
+---
 
 ### Amanda Nabila  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amandanabila10-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amandanabila10/)  
-📧 amandanabila1011@gmail.com  
-[![GitHub](https://img.shields.io/badge/GitHub-mfhrmn-black?style=flat&logo=github)](https://github.com/mfhrmn)  
-📧 mfhrmn@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amandanabila10-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandanabila10/)  
+[![Email](https://img.shields.io/badge/Email-amandanabila1011%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandanabila1011@gmail.com)  
+
