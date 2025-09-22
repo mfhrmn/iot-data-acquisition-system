@@ -6,14 +6,15 @@ This folder contains all visual materials demonstrating the **IoT Data Acquisiti
 
 ## Contents
 
+### Scheme
+
 ### Prototype Photos
 - Images showing ESP32, sensors, and wiring on the trail bike  
 - File: `prototype_front.jpg`, `wiring_closeup.jpg`
 
 ### App Screenshots
-- MIT App Inventor mobile app interface  
-- Screenshots of real-time data received via Bluetooth  
-- File: `app_dashboard.png`, `app_blocks.png`
+- MIT App Inventor mobile app interface 
+- File: `app_dashboard.png`, `block_program.png`
 
 ---
 
